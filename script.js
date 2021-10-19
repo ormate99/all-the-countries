@@ -214,7 +214,7 @@ function loadEvent() {
 
     const peruHTML = `
         <section class="independent">
-            <img src="${peru.flags.png}}" alt="flag">
+            <img src="${peruO.flags.png}" alt="flag">
             <h1>${peruO.name.official}</h1>
             <h2>${peruO.capital}</h2>
             <ul>
